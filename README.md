@@ -14,7 +14,7 @@ To install CUDA, Nvidia has provided installation guides for the main operating 
 
 Nvidia has also provided a list of CUDA-enabled GPU's with their respective compute capabilities:
 
-GPU list: `<https://developer.nvidia.com/cuda-gpus>`
+GPU list: https://developer.nvidia.com/cuda-gpus
 
 ### Compiling the codes
 
