@@ -1,6 +1,6 @@
 # Barnes-Hut 2 GPU Simulation
   
-This program is an expansion upon the work done by Martin Burtscher and Keshav Pingali. Their original implementation simulates an N-Body program making use of a GPU to accelerate the calculations. In this program, the code is expanded to make use of a second GPU in order to accelerate the simulations even more. Their published paper can be found at `http://iss.ices.utexas.edu/Publications/Papers/burtscher11.pdf` and the original source code can be found at `http://iss.ices.utexas.edu/?p=projects/galois/lonestargpu`.
+This program is an expansion upon the work done by Martin Burtscher and Keshav Pingali. Their original implementation simulates an N-Body program making use of a GPU to accelerate the calculations. In this program, the code is expanded to make use of a second GPU in order to accelerate the simulations even more. Their published paper can be found at http://iss.ices.utexas.edu/Publications/Papers/burtscher11.pdf and the original source code can be found at http://iss.ices.utexas.edu/?p=projects/galois/lonestargpu.
 
 ### Prerequisites
 
